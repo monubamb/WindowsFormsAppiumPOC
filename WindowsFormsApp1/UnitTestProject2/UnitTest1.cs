@@ -27,7 +27,7 @@ namespace UnitTestProject2
     
     public class SessionSetup
     {
-        private const string AppId = @"C:\Users\monub\Desktop\WindowsFormsApp1\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.exe";
+        private const string AppId = @"C:\Users\alias\Desktop\WindowsFormsApp1\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.exe";
         protected static WindowsDriver<WindowsElement> session;
         private const string WindowsApplicationDriverUrl = "http://127.0.0.1:4723/wd/hub";
         
